@@ -1,25 +1,74 @@
-# Keertiraj Kamble — Portfolio
+# Keertiraj Kamble — Portfolio Website
 
-Personal portfolio website built with vanilla HTML/CSS/JS. Deployed on Vercel.
+Personal portfolio website built using **HTML, CSS, and JavaScript**. Showcases my skills, projects, certifications, resume, and contact details. Fully responsive and deployed on Vercel.
 
-## 🚀 Deploy on Vercel
+🌐 **Live Demo:** https://portfolio-beta-ebon-39.vercel.app/#contact
 
-### Option 1 — Vercel CLI (Fastest)
+---
+
+## 🚀 Features
+
+- Responsive modern portfolio design
+- About Me section
+- Skills section (AI / ML / Data Science / Web)
+- Projects showcase
+- Certifications & Achievements
+- Resume download option
+- Contact section
+- Smooth scrolling navigation
+- Fast loading performance
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
+
 ```bash
-npm i -g vercel
+portfolio/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── vercel.json
+│── README.md
+🚀 Deployment on Vercel
+Option 1 — Vercel CLI
+npm install -g vercel
 vercel
-```
+Option 2 — GitHub + Vercel Dashboard
+Push project to GitHub repository
+Visit Vercel
+Click New Project
+Import GitHub repository
+Framework Preset → Other
+Click Deploy
+📌 Sections Included
+Home
+About
+Skills
+Projects
+Certifications
+Resume
+Contact
+👨‍💻 Author
 
-### Option 2 — GitHub + Vercel Dashboard
-1. Push this folder to a new GitHub repo (e.g. `portfolio`)
-2. Go to [vercel.com](https://vercel.com) → **New Project**
-3. Import your GitHub repo
-4. Framework Preset: **Other**
-5. Root Directory: `/` (leave default)
-6. Click **Deploy** ✅
+Keertiraj Kamble
+AI Engineer | Data Scientist | Machine Learning Engineer
 
-Your portfolio will be live at `https://your-name.vercel.app` in ~30 seconds.
+🔗 LinkedIn: https://www.linkedin.com/in/keertiraj-kamble
 
-## 📁 Files
-- `index.html` — Complete portfolio (single file)
-- `vercel.json` — Vercel deployment config
+💻 GitHub: https://github.com/Keertiraj2004
+
+📬 Contact
+
+For internships, freelance work, or collaborations:
+
+📧 keertirajkamble023@gmail.com
