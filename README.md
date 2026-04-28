@@ -1,74 +1,117 @@
-# Keertiraj Kamble — Portfolio Website
+Keertiraj Kamble — Portfolio Website
 
-Personal portfolio website built using **HTML, CSS, and JavaScript**. Showcases my skills, projects, certifications, resume, and contact details. Fully responsive and deployed on Vercel.
+Personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, certifications, resume, and contact details. Designed with a clean modern UI and fully responsive layout. Deployed on Vercel for fast global access.
 
-🌐 **Live Demo:** https://portfolio-beta-ebon-39.vercel.app/#contact
+🌐 Live Website: https://portfolio-beta-ebon-39.vercel.app/
 
----
+📌 About This Project
 
-## 🚀 Features
+This portfolio website represents my professional profile as an aspiring AI Engineer, Data Scientist, and Machine Learning Engineer. It highlights my technical skills, academic projects, certifications, achievements, and provides an easy way for recruiters or collaborators to connect with me.
 
-- Responsive modern portfolio design
-- About Me section
-- Skills section (AI / ML / Data Science / Web)
-- Projects showcase
-- Certifications & Achievements
-- Resume download option
-- Contact section
-- Smooth scrolling navigation
-- Fast loading performance
+🚀 Features
 
----
+✅ Fully Responsive Design
+✅ Clean and Modern UI
+✅ Smooth Scrolling Navigation
+✅ About Me Section
+✅ Skills Showcase
+✅ Projects Portfolio
+✅ Certifications & Achievements
+✅ Resume / CV Section
+✅ Contact Form / Contact Details
+✅ Fast Loading Performance
+✅ Deployed on Vercel
 
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- Vercel (Deployment)
-
----
-
-## 📂 Project Structure
-
-```bash
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Vercel (Hosting & Deployment)
+📂 Project Structure
 portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│── vercel.json
-│── README.md
-🚀 Deployment on Vercel
-Option 1 — Vercel CLI
+│── index.html        # Main portfolio page
+│── style.css         # Styling file
+│── script.js         # JavaScript functionality
+│── assets/           # Images / icons / resume files
+│── vercel.json       # Vercel deployment config
+│── README.md         # Project documentation
+🌐 Live Demo
+
+🔗 https://portfolio-beta-ebon-39.vercel.app/
+
+🚀 Deployment Guide
+Option 1 — Deploy with Vercel CLI
 npm install -g vercel
 vercel
-Option 2 — GitHub + Vercel Dashboard
-Push project to GitHub repository
+Option 2 — Deploy with GitHub + Vercel Dashboard
+Push your portfolio project to GitHub
 Visit Vercel
 Click New Project
-Import GitHub repository
-Framework Preset → Other
+Import your GitHub repository
+Select Framework Preset: Other
 Click Deploy
-📌 Sections Included
+📌 Website Sections
 Home
-About
+About Me
 Skills
 Projects
 Certifications
 Resume
 Contact
+💼 Highlighted Skills
+Programming Languages
+Python
+SQL
+JavaScript
+HTML/CSS
+Data Science & AI
+Machine Learning
+Deep Learning
+Data Analysis
+EDA
+Model Evaluation
+Generative AI
+Prompt Engineering
+RAG
+LLM Applications
+Vector Search
+Tools
+GitHub
+Vercel
+Streamlit
+Power BI
+Jupyter Notebook
+📈 Future Improvements
+Dark Mode Theme
+Blog Section
+Animated Project Cards
+Admin Dashboard
+Backend Contact Form Integration
+Multi-language Support
 👨‍💻 Author
 
 Keertiraj Kamble
 AI Engineer | Data Scientist | Machine Learning Engineer
 
+📧 Email: keertirajkamble023@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/keertiraj-kamble
 
 💻 GitHub: https://github.com/Keertiraj2004
 
-📬 Contact
+🤝 Connect With Me
 
-For internships, freelance work, or collaborations:
+I’m open to:
 
-📧 keertirajkamble023@gmail.com
+Internships
+Full-Time Opportunities
+Freelance Projects
+AI / ML Collaborations
+Open Source Contributions
+⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub
+
+📜 License
+
+This project is open-source and available under the MIT License.
