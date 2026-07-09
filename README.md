@@ -15,7 +15,7 @@ It highlights:
 - Technical Skills  
 - Academic & Personal Projects  
 - Certifications & Achievements  
-- Resume / CV  
+- Resume / CV
 - Contact Information  
 - Professional Branding for Recruiters & HR  
 
