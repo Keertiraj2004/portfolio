@@ -17,7 +17,7 @@ It highlights:
 - Certifications & Achievements  
 - Resume / CV
 - Contact Information  
-- Professional Branding for Recruiters & HR  
+- Professional Branding for Recruiters & HR
 
 ---
 
