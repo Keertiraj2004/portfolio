@@ -13,7 +13,7 @@ This portfolio website represents my professional profile as an aspiring **AI En
 It highlights:
 
 - Technical Skills  
-- Academic & Personal Projects  
+- Academic & Personal Projects
 - Certifications & Achievements  
 - Resume / CV
 - Contact Information  
