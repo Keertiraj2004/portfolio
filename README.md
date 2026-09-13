@@ -37,7 +37,7 @@ It highlights:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 | Technology | Usage |
 |-----------|------|
