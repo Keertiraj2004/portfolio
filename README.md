@@ -48,7 +48,7 @@ It highlights:
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```bash
 portfolio/
